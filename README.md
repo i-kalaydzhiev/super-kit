@@ -1,3 +1,3 @@
 # SuperKit
 
-A description of this package.
+The end-all, be-all of all Swift Libraries
